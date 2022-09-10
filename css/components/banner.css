@@ -1,0 +1,19 @@
+.banner {
+    background-image: url(images/background.png);
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #6C63FF;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}
+
+h1,
+p {
+    color: white;
+}
